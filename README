@@ -1,0 +1,7 @@
+Following is the code for a querybot that answers most frequently answered questions for Microsoft Azure training.
+  it can answer the provided preset questions in a formal manner with details about its confidence levels and source.
+you can also add multiple PDFs or URLs to the provided code.
+On starting the required setting this code can also act as a chit chat bot. It provides answers for the questions possible.
+to the questions it cannot provide answers to, it shows "Sorry, I don't understand this!"
+
+!!GOOD LUCK WORKING WITH THE CHATBOT!!
